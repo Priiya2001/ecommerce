@@ -125,7 +125,7 @@ body{
     display: none;
 }
 #hero{
-    background-image:url(photo/image1.jpg) ;
+    background-image:url(image1.jpg) ;
     height: 90vh;
     /* width: 89.50%; */
     background-size: cover;
