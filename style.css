@@ -268,7 +268,7 @@ body{
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url(photo/banner.jpg);
+    background-image: url(banner.jpg);
     width: 100%;
     height: 40vh;
     background-size: cover;
@@ -300,7 +300,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(photo/b2.jpeg);
+    background-image: url(b2.jpeg);
     min-width: 580px;
     height: 50vh;
     background-size: cover;
@@ -308,7 +308,7 @@ body{
     padding: 30px;
 }
 #sm-banner .banner-box2{
-    background-image: url(photo/b1.jpeg);
+    background-image: url(b1.jpeg);
 }
 #sm-banner h4{
     color: white;
@@ -342,7 +342,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
-    background-image: url(photo/b3.jpeg);
+    background-image: url(b3.jpeg);
     min-width: 25%;
     height: 30vh;
     background-size: cover;
@@ -351,7 +351,7 @@ body{
     margin-bottom: 20px;
 }
 #banner3 .banner-box2{
-    background-image: url(photo/b4.jpeg);
+    background-image: url(b4.jpeg);
 }
 #banner3 h2{
     color: white;
@@ -368,7 +368,7 @@ body{
     justify-content: space-between;
     flex-wrap: wrap;
     align-items: center;
-    background-image: url(photo/ns.jpeg);
+    background-image: url(ns.jpeg);
     background-repeat: no-repeat;
     background-position: 20% 30%;
     background-color: #1a1a1a;
@@ -468,7 +468,7 @@ footer .copyright{
 
 /* shop page */
 #page-header{
-    background-image: url(photo/sb.jpeg);
+    background-image: url(sb.jpeg);
     /* width: 98.17%; */
     height: 40vh;
     background-size: cover;
@@ -506,7 +506,7 @@ footer .copyright{
     font-weight: 600;
 }
 #boy{
-        background-image:url(photo/shop/b1.jpg) ;
+        background-image:url(b1.jpg) ;
         height: 80vh;
         /* width: 89.50%; */
         background-size: cover;
@@ -532,7 +532,7 @@ footer .copyright{
 }
 
 #girl{
-    background-image:url(photo/shop/g1.jpg) ;
+    background-image:url(g1.jpg) ;
     height: 80vh;
     /* width: 89.50%; */
     background-size: cover;
@@ -728,7 +728,7 @@ footer .copyright{
 /* about page */
 
 .about-header{
-    background-image: url(photo/ns.jpeg);
+    background-image: url(ns.jpeg);
     width: 98.17%;
     /* width: 100%; */
     height: 40vh;
@@ -778,7 +778,7 @@ footer .copyright{
 }
 /* contact page */
 .contact-header{
-    background-image: url(photo/ns.jpeg);
+    background-image: url(ns.jpeg);
     /* width: 98.17%; */
     /* width: 100%; */
     height: 40vh;
